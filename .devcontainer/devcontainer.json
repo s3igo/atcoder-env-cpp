@@ -10,7 +10,7 @@
         "seccomp=unconfined"
     ],
     "settings": {
-        "terminal.integrated.defaultProfile.linux": "bash",
+        "terminal.integrated.defaultProfile.linux": "bash"
     },
     "postCreateCommand": "bash ./login.sh",
     "extensions": [
