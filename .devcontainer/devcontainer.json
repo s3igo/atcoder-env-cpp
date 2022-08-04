@@ -12,7 +12,7 @@
     "settings": {
         "terminal.integrated.defaultProfile.linux": "bash"
     },
-    "postCreateCommand": "bash ./login.sh",
+    "postCreateCommand": "./login.sh",
     "extensions": [
         "ms-vscode.cpptools"
         /* -------------------------------- 以下よしなに追加 -------------------------------- */
