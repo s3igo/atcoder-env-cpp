@@ -6,6 +6,12 @@
 
 - atcoder-cliとonline-judge-toolを採用しています
 
+## dependency
+
+- Docker
+
+- VS Code
+
 ## installation
 
 1. GitHubでこのテンプレートをもとにリポジトリを作成
