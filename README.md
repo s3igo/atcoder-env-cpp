@@ -22,13 +22,12 @@
 
 4. VS Codeの拡張機能`Remote - Containers`がまだインストールされていなければインストールする
 
-5. `./.env.example`のファイル名を`.env`に変更
+5. `./.env.example`のファイル名を`.env`に変更し、`<username>`を自分のAtCoderのユーザー名に、
+    `<password>`を自分のAtCoderのパスワードに書き換える
 
-6. `.env`ファイルの`<username>`を自分のAtCoderのユーザー名に、`<password>`を自分のAtCoderのパスワードに書き換える
+6. 画面左下の`><`みたいなアイコンをクリックし、`Reopen in Container`を選択
 
-7. 画面左下の`><`みたいなアイコンをクリックし、`Reopen in Container`を選択
-
-8. 初回はビルドに少々時間がかかるのでログでも眺めながらしばし待つ
+7. 初回はビルドに少々時間がかかるのでログでも眺めながらしばし待つ
 
 ## usage
 
