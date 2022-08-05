@@ -15,6 +15,7 @@
 ## installation
 
 1. GitHubでこのテンプレートをもとにリポジトリを作成
+    ([作成リンク](https://github.com/s3igo/env_atcoder/generate))
 
 2. 作成したリポジトリをクローン
 
