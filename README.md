@@ -63,7 +63,8 @@
 
 - デバッグ
 
-    `F5`を押して、`C/C++: g++ build and debug active file` *Configured Task (debug task for AtCoder)* を選択するとgdbでデバッグできる
+    `F5`を押して、`C/C++: g++ build and debug active file` *Configured Task (debug task for AtCoder)*
+    を選択するとgdbでデバッグできる
 
 ## customize
 
@@ -79,4 +80,6 @@
 
     - `./login.sh`を変更
 
-    - 詳しい設定内容については`$ acc -h`や[atcoder-cliの作者さんのブログ](http://tatamo.81.la/blog/2018/12/07/atcoder-cli-tutorial/)で確認してみてください
+    - 詳しい設定内容については`$ acc -h`や
+    [atcoder-cliの作者さんのブログ](http://tatamo.81.la/blog/2018/12/07/atcoder-cli-tutorial/)
+    で確認してみてください
