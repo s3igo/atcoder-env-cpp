@@ -54,7 +54,18 @@
 
     `cmd(ctrl)+shift+P`でコマンドパレットを開いてから`Tasks: Run Test Task`を実行
 
-    このコマンドにキーバインド割り当てておくと便利。自分は`cmd+ctrl+T`を割り当てています
+    このコマンドにキーバインド割り当てておくと便利。自分は`ctrl+cmd+T`を割り当てています
+
+    *keybindings.json*
+
+    ```json
+    [
+        {
+            "key": "ctrl+cmd+t",
+            "command": "workbench.action.tasks.test"
+        }
+    ]
+    ```
 
 - 提出
 
