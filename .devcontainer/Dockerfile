@@ -4,9 +4,10 @@ RUN apt-get update \
     && export DEBIAN_FRONTEND=noninteractive \
     && apt-get -y install --no-install-recommends \
     git \
-    ssh \
+    ca-certificates \
     build-essential \
     gdb \
+    time \
     expect \
     python3-pip \
     nodejs \
